@@ -12,12 +12,12 @@
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_enemy</sprite>
     <sprite>sprites\spr_bladeslash</sprite>
+    <sprite>sprites\spr_gun</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
   <objects name="objects">
     <objects name="Characters">
       <object>objects\obj_player</object>
