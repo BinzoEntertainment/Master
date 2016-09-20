@@ -13,6 +13,7 @@
     <sprite>sprites\spr_enemy</sprite>
     <sprite>sprites\spr_bladeslash</sprite>
     <sprite>sprites\spr_gun</sprite>
+    <sprite>sprites\spr_uzi</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
